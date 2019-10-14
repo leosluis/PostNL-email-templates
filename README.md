@@ -1,9 +1,7 @@
 ### Email templates repository
 
 This repository is a copy of email templates for PostNL delivery in Belgium.
--
 Since the templates are edited online, this repo is just the latest saved changes.
--
 The online version is leading and might change without this repository reflecting the changes.
 **Online is always leading!**
 
